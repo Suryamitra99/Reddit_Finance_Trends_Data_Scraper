@@ -1,4 +1,4 @@
-# 🏦 Reddit Finance Trends Data Scraper
+#  Reddit Finance Trends Data Scraper
 
 ### Overview
 The **Reddit Finance Trends Data Scraper** is a Python-based project designed to collect and organize discussions from Reddit’s **r/wallstreetbets** community.  
