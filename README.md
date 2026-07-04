@@ -187,5 +187,3 @@ pip install pandas numpy matplotlib seaborn nltk requests
 
 ## About
 
-**Aguru Venkata Saisantosh Patnaik** — NLP & Financial Sentiment Analysis  
-Contact: [agurusantosh@gmail.com](mailto:agurusantosh@gmail.com)
